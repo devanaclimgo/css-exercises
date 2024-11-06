@@ -1,0 +1,19 @@
+.odd {
+  background-color: #FF8886;
+  font-family: 'Poppins', 'Roboto', sans-serif;
+}
+
+#second {
+  color: blue;
+  font-size: 16px;
+}
+
+.third {
+  font-size: 24px;
+}
+
+#fourth {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
